@@ -1,0 +1,30 @@
+{
+  "name": "learn.jade",
+  "version": "1.0.0",
+  "description": "Aprendendo a trabalhar com Jade Template Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9Brothers/Learn.Jade.git"
+  },
+  "keywords": [
+    "Learning",
+    "Jade",
+    "Template",
+    "Enginge"
+  ],
+  "author": "Heber Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9Brothers/Learn.Jade/issues"
+  },
+  "homepage": "https://github.com/9Brothers/Learn.Jade#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.1",
+    "gulp-jade": "^1.1.0"
+  }
+}
